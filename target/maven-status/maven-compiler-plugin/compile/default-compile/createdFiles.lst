@@ -1,0 +1,12 @@
+onlineshop\Ordered.class
+onlineshop\Payment.class
+onlineshop\AbstractEvent$1.class
+onlineshop\config\kafka\KafkaProcessor.class
+onlineshop\PolicyHandler.class
+onlineshop\PayCanceled.class
+onlineshop\PaymentApplication.class
+onlineshop\AbstractEvent.class
+onlineshop\OrderedCancled.class
+onlineshop\PaymentRepository.class
+onlineshop\Paid.class
+onlineshop\PaymentController.class
